@@ -1,0 +1,15 @@
+body{
+background: #000;
+color: #fff;
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+background-image: url(ricck.jpg);
+background-repeat: no-repeat;
+background-attachment: scroll;
+background-position: center top;
+
+}
+p{
+    text-align: left;
+    color: white;
+}
